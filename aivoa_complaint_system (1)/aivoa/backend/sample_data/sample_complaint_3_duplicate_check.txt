@@ -1,0 +1,18 @@
+From: qa@apollopharmacy-distribution.com
+To: complaints@zenithlifesciences.com
+Subject: Follow-up - Discoloration Issue Batch AMX240602
+
+Hi team,
+
+Following up on our earlier report - a second pharmacist at a different
+branch also flagged capsules from the same batch, AMX240602, of Amoxicillin
+Capsules 500mg showing the same yellowish-brown discoloration. This looks
+like the same defect we already reported (bottle seal intact, ~10-15
+capsules per affected bottle). Wanted to flag this in case it hasn't been
+logged yet.
+
+Manufacturing Date: March 2026
+Expiry Date: February 2028
+
+Thanks,
+Apollo Pharmacy QA

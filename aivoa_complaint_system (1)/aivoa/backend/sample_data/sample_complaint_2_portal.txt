@@ -1,0 +1,26 @@
+CUSTOMER COMPLAINT REPORT
+Reference: ICC-2026-00154
+Submitted via: Customer Portal
+Customer: ABC Formulations Ltd.
+
+Product Name: Metformin Hydrochloride API
+Product Strength/Grade: IP/BP
+Batch / Lot Number: CHG260712A
+Manufacturing Date: 25 June 2026
+Expiry Date: Not Provided
+Affected Quantity: 50 kg (1 HDPE Drum)
+
+Complaint Category: Foreign Matter Contamination
+
+Complaint Description:
+During incoming quality inspection at our formulation facility, our QC team
+identified multiple dark foreign particles inside one sealed HDPE drum of
+Metformin Hydrochloride API. The drum exterior showed no visible external
+damage, and the tamper-evident seal was unbroken at the time of opening. The
+particles are dark grey/black, irregular in shape, and estimated at 1-3mm in
+size. The material has been quarantined pending investigation. We request a
+formal root cause investigation and CAPA, along with confirmation of whether
+any other drums from the same batch are affected.
+
+Reported by: QC Manager, ABC Formulations Ltd.
+Date of Complaint: 2026-07-18
